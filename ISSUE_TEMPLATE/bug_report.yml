@@ -1,0 +1,40 @@
+name: Bug report
+description: Something is not working
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to reproduce it
+      description: The steps that make it happen.
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: Printer Buddy version
+      description: Shown in the installer menu and in the dashboard, for example 79001a2 on nightly.
+    validations:
+      required: true
+  - type: input
+    id: setup
+    attributes:
+      label: Your setup
+      description: The machine it runs on, and your Klipper and Moonraker versions if you know them.
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: Anything useful from the installer's Show logs option. Remove passwords and access codes first.
+      render: shell
+    validations:
+      required: false

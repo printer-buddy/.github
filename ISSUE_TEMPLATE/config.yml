@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://printer-buddy.github.io/printer-buddy-docs
+    about: Install steps, setup choices and how each part works
