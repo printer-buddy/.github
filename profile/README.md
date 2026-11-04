@@ -46,7 +46,7 @@ The first time you run it, the installer walks you through the choices above. Th
 - **Found a bug or want a feature:** open an issue in the repository it belongs to, and the form will ask for what we need.
 - **Security problems:** see [SECURITY.md](https://github.com/printer-buddy/.github/blob/main/SECURITY.md).
 
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/printerbuddy)
+<a href="https://ko-fi.com/printerbuddy"><img src="https://img.shields.io/badge/Support_us_on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support us on Ko-fi" height="56"></a>
 ## Repositories
 
 | Repository | What it is |
