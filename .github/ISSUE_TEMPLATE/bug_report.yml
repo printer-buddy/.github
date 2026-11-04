@@ -22,7 +22,7 @@ body:
       label: Printer Buddy version
       description: Shown in the installer menu and in the dashboard, for example 79001a2 on nightly.
     validations:
-      required: true
+      required: false
   - type: input
     id: setup
     attributes:
