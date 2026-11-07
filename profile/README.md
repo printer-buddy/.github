@@ -37,7 +37,7 @@ The first time you run it, the installer walks you through the choices above. Th
 ## Coming soon
 
 - **Full remote access:** open all of Printer Buddy from anywhere, with a login. Today, remote access is share links.
-- **More printers:** Klipper is supported today, and support for more is being added over time.
+- **More printers:** Klipper is supported today, bambu and centauri carbon are in testing with more to come!
 - **32-bit AI:** a 32-bit version of the lite AI model, so AI detection works on 32-bit systems too.
 
 ## Help and documentation
