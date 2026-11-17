@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/printer-buddy/printer-buddy/nightly/assets/logo.png" alt="Printer Buddy" width="220"></p>
+
 # Printer Buddy
 
 A self-hosted monitor for Klipper 3D printers. It runs on a Raspberry Pi, a NAS, a home server or on a printer itself, finds the Moonraker printers on your network, and gives you one dashboard for all of them.
